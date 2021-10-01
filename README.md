@@ -1,5 +1,9 @@
 # aegis-observer
-Observes users, apps' and services' behaviour.
+Observes users, apps' and services' behaviour. Observer is one of the tools in aegis collection. The other key tools are:
+
+* AEGIS-IDENTITY
+* AEGIS-ENFORCER
+* AEGIS-ENGINE
 
 # Introduction
 Observer is a key tool that records the behaviour of running users, apps and services on a system under observation, with the objective that observed behaviour of these is used to detect anomalous behaviour in a production system.
